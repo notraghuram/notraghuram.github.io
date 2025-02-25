@@ -3,3 +3,24 @@ html{
     color: crimson; 
     font-family: 'Courier New', Courier, monospace;
 }
+a{
+    color: aliceblue;
+}
+.main{
+    width: 50%;
+    height: 87%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+h3{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.foot{
+    width: 100%;
+    border: 2px solid;
+    border-width: 2px 0px 0px 0px;
+    padding-top: 10px;
+}
